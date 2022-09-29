@@ -21,9 +21,10 @@
 ## 截图:
 <img width="392" alt="SeToSaJ_11" src="https://user-images.githubusercontent.com/94137664/192828559-9c35871a-2fb7-43f3-98a1-8eed40037c50.png"> <img width="392" alt="SeToSaJ_12" src="https://user-images.githubusercontent.com/94137664/192828547-bd60dd6c-490f-4b24-9cd3-d6eafdd8df7a.png">
 <img width="392" alt="SeToSaJ_13" src="https://user-images.githubusercontent.com/94137664/192828537-284611fc-ec94-4666-8c69-11efc10a7cac.png"> <img width="393" alt="SeToSaJ_14" src="https://user-images.githubusercontent.com/94137664/192828523-73ca5e9c-428c-4b14-9a07-13f36c28e698.png">
- 
+<img width="1280" alt="SeToSaJ_15" src="https://user-images.githubusercontent.com/94137664/193128023-122d0c88-51e3-42d1-8b8a-6fcdc61a1039.png"> <img width="1280" alt="SeToSaJ_16" src="https://user-images.githubusercontent.com/94137664/193128013-eb8c5d8c-cf44-4a62-9b1c-6ef2bf5911e4.png">
 
-- [YouTube 视频](https://www.youtube.com/watch?v=1Bdwcqkuiys)
+
+- [YouTube 视频](https://youtu.be/TjmF4SK9MQ4)
 
 
 ## 联系人：
