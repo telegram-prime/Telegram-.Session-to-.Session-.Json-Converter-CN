@@ -1,8 +1,8 @@
 # 电报帐户 .session 到 .Session+.Json 转换器。
 
 ## 使 Telegram 会话文件与 Telegram Gods 兼容。
-* Описание программы так же доступно на русском языке。См。Telegram Gods Rus [进行中]
-* 描述也可以在中文中提供。 见Telegram Gods CN [进行中]
+* Описание программы так же доступно на русском языке。[См。Telegram Gods Rus](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU)
+* 描述也可以在中文中提供。 [见Telegram Gods CN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN)
 
 
 ## 转换器使用户能够：
