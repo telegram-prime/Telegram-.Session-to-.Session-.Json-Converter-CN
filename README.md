@@ -1,6 +1,6 @@
 # 电报帐户 .session 到 .Session+.Json 转换器。
 
-## 使 Telegram 会话文件与 Telegram Gods 兼容。
+## 使 Telegram 会话文件与 Telegram Prime 兼容。
 * Описание программы так же доступно на русском языке。[См。Telegram Gods Rus](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU)
 * 描述也可以在中文中提供。 [见Telegram Gods CN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN)
 
@@ -17,6 +17,9 @@
  - 100 次转换（操作），为期 30 天（以先到者为准）。
  - 1000 次转换（操作），为期 365 天（以先到者为准）。
  - 无限次数的转换（操作）。
+ 
+ ## 下载:
+  - [总是最新版本](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN/releases/latest)
 
 ## 截图:
 <img width="392" alt="SeToSaJ_11" src="https://user-images.githubusercontent.com/94137664/192828559-9c35871a-2fb7-43f3-98a1-8eed40037c50.png"> <img width="392" alt="SeToSaJ_12" src="https://user-images.githubusercontent.com/94137664/192828547-bd60dd6c-490f-4b24-9cd3-d6eafdd8df7a.png">
@@ -28,12 +31,11 @@
 
 
 ## 联系人：
-- 电子邮件：info[@]telegram-gods.pro
+- 电子邮件：manager[@]telegramprime.net
 - 电报：@TGG_Sales
 
-* 或通过我们的 Telegram-Gods 网站上的联系表：
-- 网站：https://telegram-gods.pro/ - 英文版
-- 网站：https://telegram-gods.com/ - 俄罗斯版
+* 或通过我们的 Telegram-Prime 网站上的联系表：
+- 网站：https://telegramprime.net/ - 英文版
 
 
 ##捐款：
