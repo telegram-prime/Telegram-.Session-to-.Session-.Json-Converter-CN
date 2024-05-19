@@ -1,34 +1,37 @@
-# 电报帐户 .session 到 .Session+.Json 转换器。
+# STSJ Converter - 电报帐户 .session 到 .session+.json 转换器。
 
-## 使 Telegram 会话文件与 Telegram Prime 兼容。
-* Описание программы так же доступно на русском языке。[См。SeToSaJ Converter Rus](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU)
-* 描述也可以在中文中提供。 [见SeToSaJ Converter CN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN)
+## 使 Telegram 会话文件与 Telegram PRIME 兼容。
+* Описание программы так же доступно на русском языке。[См。STSJ Converter Rus](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU)
+* 描述也可以在中文中提供。 [见STSJ Converter CN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN)
 
 
-## 转换器使用户能够：
- - 将电报.session格式文件转换为.session+.json格式；
- - 控制和调整.json文件转换过程中的每一步设置；
- - 为任何语言或任何设备调整 .json 文件；这是最重要的问题，因为如果 .json 文件出现问题，用户就有可能被封了所有的帐户。
- - 选择要么要在线查看会话事先转换。
- 
- 
-## 我们提供 24 小时的免费试用期，在此期间，用户将获得 5 次转换（操作）以在购买前进行测试并确保一切正常。
+##转换器将允许用户：
+ - 以.Session+.json格式调整电报文件。
+ - 支持该帐户的重新授权（创建一个新的会话）。
+ - 多流量工作。
+ - 设置使用唯一的HTTP或SOCKS5连接到会话的使用（支持大量代理）；
+ - 在设置帐户转换过程中对每个步骤的管理和监管。
+ - 对不同文件夹上的有效和通用帐户进行排序。
+ - 设置任何语言或任何设备的.json文件，这是主要的重要组件，因为如果.json文件出现问题，则.json文件是帐户损失的很大风险。
+ - 保存工作日志的能力；
+ - 转换之前创建备份的能力。
 
-## 试用期结束后，该产品可通过多种付费订阅获得：
- - 100 次转换（操作），为期 30 天（以先到者为准）。
- - 1000 次转换（操作），为期 365 天（以先到者为准）。
- - 无限次数的转换（操作）。
- 
- ## 下载:
-  - [总是最新版本](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN/releases/latest)
+
+## 我们提供 24 小时免费试用期，在此期间，用户每 5 次操作将能够转换 25 个帐户，以在购买前进行测试并确保一切正常。
+
+
+## 试用期结束后，该产品可通过多种付费订阅方式使用：
+- 30天或1000个帐户（以先到者为准）
+- 365天或10000个账户（以先到者为准）
+- 终身拥有无限账户
+
+
+## 下载:
+ - [总是最新版本](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN/releases/latest)
 
 ## 截图:
-<img width="392" alt="SeToSaJ_11" src="https://user-images.githubusercontent.com/94137664/192828559-9c35871a-2fb7-43f3-98a1-8eed40037c50.png"> <img width="784" alt="SeToSaJ_21" src="https://user-images.githubusercontent.com/94137664/219204454-63298317-d172-4dec-a53a-2f6d4ccb9e31.png">
-<img width="783" alt="SeToSaJ_22" src="https://user-images.githubusercontent.com/94137664/219204441-9287f1be-b7c5-477e-9dfd-d4af42ce6b0f.png"> <img width="783" alt="SeToSaJ_23" src="https://user-images.githubusercontent.com/94137664/219204418-435a7130-c483-4abf-81fd-a075b8a07135.png">
-<img width="1280" alt="SeToSaJ_15" src="https://user-images.githubusercontent.com/94137664/193128023-122d0c88-51e3-42d1-8b8a-6fcdc61a1039.png"> <img width="1280" alt="SeToSaJ_16" src="https://user-images.githubusercontent.com/94137664/193128013-eb8c5d8c-cf44-4a62-9b1c-6ef2bf5911e4.png">
 
-
-
+![S2SJ_Converter_v 1 9_CN_MT](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN/assets/94137664/42612cf2-6c0d-4770-a948-2d2b9720b2dd)
 
 
 
@@ -36,16 +39,20 @@
 - [YouTube 视频](https://youtu.be/TjmF4SK9MQ4)
 
 
-## 联系人：
-- 电子邮件：manager[@]telegramprime.net
-- 电报：@TGG_Sales
+##  联系方式:
+- Email:    manager[@]telegramprime.net
+- Telegram: [发送消息](https://telegramprime.com/telegram-contact)
+- ICQ:      [发送消息](https://telegramprime.com/icq-contact)
+- TamTam:   [发送消息](https://telegramprime.com/tamtam-contact)
+- Discord:  [发送消息](https://telegramprime.com/discord-contact)
+- Element:  [发送消息](https://telegramprime.net/element-contact)
 
-* 或通过我们的 Telegram-Prime 网站上的联系表：
-- 网站：https://telegramprime.net/ - 英文版
+* 或通过我们网站上的联系表格：
+- Wеb: https://telegramprime.net/ - EN Version
+- Wеb: https://telegramprime.com/ - RU Version
 
 
-##捐款：
-
-* [给我们买杯咖啡:)](https://commerce.coinbase.com/checkout/a0495346-539e-48df-9b43-880a3b93dc8b)
+## 捐赠:
+* [给我们买杯咖啡 :)](https://nowpayments.io/donation/telegramprime)
 * 谢谢！
 
