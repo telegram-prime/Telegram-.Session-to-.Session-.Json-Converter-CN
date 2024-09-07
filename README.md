@@ -7,6 +7,7 @@
 
 ##转换器将允许用户：
  - 以.Session+.json格式调整电报文件。
+ - 支持 Pyrogram 会话格式。
  - 支持该帐户的重新授权（创建一个新的会话）。
  - 多流量工作。
  - 设置使用唯一的HTTP或SOCKS5连接到会话的使用（支持大量代理）；
@@ -42,7 +43,6 @@
 ##  联系方式:
 - Email:    manager[@]telegramprime.net
 - Telegram: [发送消息](https://telegramprime.com/telegram-contact)
-- ICQ:      [发送消息](https://telegramprime.com/icq-contact)
 - TamTam:   [发送消息](https://telegramprime.com/tamtam-contact)
 - Discord:  [发送消息](https://telegramprime.com/discord-contact)
 - Element:  [发送消息](https://telegramprime.net/element-contact)
