@@ -1,6 +1,6 @@
 # STSJ Converter - 电报帐户 .session 到 .session+.json 转换器。
 
-## 使 Telegram 会话文件与 Telegram PRIME 兼容。
+## 使 Telegram 会话文件与 Telegram Prime 兼容。
 * Описание программы так же доступно на русском языке。[См。STSJ Converter Rus](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU)
 * 描述也可以在中文中提供。 [见STSJ Converter CN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN)
 
@@ -9,6 +9,7 @@
  - 以.Session+.json格式调整电报文件。
  - 支持 Pyrogram 会话格式。
  - 支持该帐户的重新授权（创建一个新的会话）。
+ - 支持在转换或重新授权时禁用账号其他会话的功能。
  - 多流量工作。
  - 设置使用唯一的HTTP或SOCKS5连接到会话的使用（支持大量代理）；
  - 在设置帐户转换过程中对每个步骤的管理和监管。
@@ -30,10 +31,9 @@
 ## 下载:
  - [总是最新版本](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN/releases/latest)
 
+
 ## 截图:
-
-![S2SJ_Converter_v 1 9_CN_MT](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN/assets/94137664/42612cf2-6c0d-4770-a948-2d2b9720b2dd)
-
+![image](https://github.com/user-attachments/assets/b589e903-9d54-41c2-b787-87e7909bdff8)
 
 
 ## 视频评论
