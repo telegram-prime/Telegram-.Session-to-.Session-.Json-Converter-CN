@@ -33,7 +33,7 @@
 
 
 ## 截图:
-![image](https://github.com/user-attachments/assets/b589e903-9d54-41c2-b787-87e7909bdff8)
+<img width="512" alt="TD2S_RU_001" src="https://github.com/user-attachments/assets/b589e903-9d54-41c2-b787-87e7909bdff8" />
 
 
 ## 视频评论
