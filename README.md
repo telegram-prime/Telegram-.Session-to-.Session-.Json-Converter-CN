@@ -1,59 +1,83 @@
-# STSJ Converter - 电报帐户 SESSION 到 SESSION+JSON 转换器。
+# STSJ Converter – Telegram **SESSION → SESSION+JSON**  
+轻量级工具，将 Telegram 会话文件转换为与 Telegram Prime 等客户端兼容的 JSON 格式。
 
-## 使 Telegram 会话文件与 Telegram Prime 兼容。
-* Описание программы так же доступно на русском языке。[См。STSJ Converter Rus](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU)
-* 描述也可以在中文中提供。 [见STSJ Converter CN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN)
+---
 
+## 📚 多语言支持
+- 简体中文 – 本页  
+- English – [STSJ Converter EN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter)  
+- Русский – [STSJ Converter RU](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU)
 
-##转换器将允许用户：
- - 以SESSION+JSON格式调整电报文件。
- - 支持 Pyrogram 会话格式。
- - 支持该帐户的重新授权（创建一个新的会话）。
- - 支持在转换或重新授权时禁用账号其他会话的功能。
- - 安装定制数量的重复尝试连接和连接延迟的可能性。
- - 多流量工作。
- - 设置使用唯一的HTTP或SOCKS5连接到会话的使用（支持大量代理）；
- - 在设置帐户转换过程中对每个步骤的管理和监管。
- - 对不同文件夹上的有效和通用帐户进行排序。
- - 设置任何语言或任何设备的JSON文件，这是主要的重要组件，因为如果JSON文件出现问题，则JSON文件是帐户损失的很大风险。
- - 保存工作日志的能力；
- - 转换之前创建备份的能力。
+---
 
+## ⚙️ 主要功能
 
-## 我们提供 24 小时免费试用期，在此期间，用户每 5 次操作将能够转换 25 个帐户，以在购买前进行测试并确保一切正常。
+| # | 功能 | 说明 |
+|---|------|------|
+| 1 | **SESSION → SESSION+JSON** | 将原生 Telegram 会话文件转换为 JSON 格式，兼容 Telegram Prime 等客户端。 |
+| 2 | **支持 Pyrogram** | 同时接受 Pyrogram 的会话文件。 |
+| 3 | **重新授权** | 如有需要可创建全新会话。 |
+| 4 | **会话清理** | 可在转换过程中断开账号的所有其他活跃会话。 |
+| 5 | **自定义重试/延迟** | 设置连接尝试次数及两次尝试间的等待时间。 |
+| 6 | **多线程处理** | 并行执行多个转换任务，提升批量处理效率。 |
+| 7 | **JSON 精细化编辑** | 在写入前可修改设备、语言等字段，降低封禁风险。 |
+| 8 | **结果分类** | 有效会话 → “valid”，无效会话 → “invalid”。 |
+| 9 | **日志记录** | 完整的控制台日志，便于跟踪与排查问题。 |
+|10 | **备份原文件** | 转换前自动复制源文件，防止数据丢失。 |
 
+---
 
-## 试用期结束后，该产品可通过多种付费订阅方式使用：
-- 30天或1000个帐户（以先到者为准）
-- 365天或10000个账户（以先到者为准）
-- 终身拥有无限账户
+## ⏱️ 免费试用
 
+- 24 小时免费期  
+- 每 5 次操作可转换至多 **25 个账号** – 无风险体验。
 
-## 下载:
- - [总是最新版本](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN/releases/latest)
+---
 
+## 💰 收费方案
 
-## 截图:
-<img width="512" alt="TD2S_RU_001" src="https://github.com/user-attachments/assets/b589e903-9d54-41c2-b787-87e7909bdff8" />
+| 方案 | 时长 / 限制 |
+|------|-------------|
+| **30 天 / 1 000 账号** | 按先到先得计数 |
+| **365 天 / 10 000 账号** | 按先到先得计数 |
+| **终身 / 无限账号** | 无限转换次数 |
 
+---
 
-## 视频评论
-- [YouTube 视频](https://youtu.be/TjmF4SK9MQ4)
+## 📥 下载
 
+- **始终最新版** – [GitHub](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter/releases/latest)
 
-##  联系方式:
-- Email:    manager[@]telegramprime.net
-- Telegram: [发送消息](https://telegramprime.com/telegram-contact)
-- TamTam:   [发送消息](https://telegramprime.com/tamtam-contact)
-- Discord:  [发送消息](https://telegramprime.com/discord-contact)
-- Element:  [发送消息](https://telegramprime.net/element-contact)
+---
 
-* 或通过我们网站上的联系表格：
-- Wеb: https://telegramprime.net/ - EN Version
-- Wеb: https://telegramprime.com/ - RU Version
+## 🖼️ 截图
 
+![TD2S_RU_001](
+https://github.com/user-attachments/assets/09773555-d2b1-4244-95c1-a2df6fe1379b
+)
 
-## 捐赠:
-* [给我们买杯咖啡 :)](https://nowpayments.io/donation/telegramprime)
-* 谢谢！
+---
 
+## 🎬 视频演示
+
+- [YouTube](https://www.youtube.com/watch?v=5J3nTmHHeFc)
+
+---
+
+## 📬 联系与支持
+
+| 渠道 | 链接 |
+|------|------|
+| Email | manager[@]telegramprime.net |
+| Telegram | [发送消息](https://telegramprime.net/telegram-contact) |
+| Discord | [发送消息](https://telegramprime.net/discord-contact) |
+| Element | [发送消息](https://telegramprime.net/element-contact) |
+| 网站 (EN) | https://telegramprime.net/ |
+| 网站 (RU) | https://telegramprime.com/ |
+
+---
+
+## ☕️ 捐赠
+
+- **请给我们买杯咖啡** – <https://nowpayments.io/donation/telegramprime>  
+感谢您的支持！  
