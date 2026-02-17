@@ -48,7 +48,7 @@
 
 ## 📥 下载
 
-- **始终最新版** – [GitHub](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter/releases/latest)
+- **始终最新版** – [GitHub](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN/releases/latest)
 
 ---
 
